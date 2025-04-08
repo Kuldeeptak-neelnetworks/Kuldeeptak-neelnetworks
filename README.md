@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Kuldeeptak
-- - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://github.com/Kuldeeptak-neelnetworks/
-- 😄 Pronouns: Kuldeep
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Kuldeep</h1>
+<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
 
-<!---
-Kuldeeptak-neelnetworks/Kuldeeptak-neelnetworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Next.js + Tailwind projects**
+- 🌱 I’m currently learning **AI, React Native**
+- 👯 I’m looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Next.js, TypeScript, Zustand**
+- 📫 How to reach me: **kuldeep@neelnetworks.com**
+- ⚡ Fun fact: I love debugging more than coding 😅
+
+### 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-blue?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+
+
+
+
