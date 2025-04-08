@@ -67,13 +67,9 @@
 > ☕ I turn coffee into code  
 > 🧩 I love solving UI puzzles  
 
----
 
-### 🐍 GitHub Snake (Just for fun!)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Kuldeeptak-neelnetworks/Kuldeeptak-neelnetworks/output/github-contribution-grid-snake.svg)
 
----
 
 
 
